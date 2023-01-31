@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-modules": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
